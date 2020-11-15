@@ -116,9 +116,7 @@ namespace JogoGourmet
                 foodList.Add(new Food(name, feature));
             }
 
-
         }
-
 
     }
 }
