@@ -15,7 +15,6 @@ namespace JogoGourmet
 
         private readonly List<Food> foodList;
         private bool response;
-
         public MainWindow()
         {
             InitializeComponent();
